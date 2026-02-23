@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "削いで、",
+  "base_artist": "r-906",
+  "createdAt": "2026-02-23T11:37:26.375578Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "削いで、",
+      "artist": "r-906",
+      "has_synced": false,
+      "path": "select/pl_01_削いで、_r-906.txt"
+    }
+  ]
+}
